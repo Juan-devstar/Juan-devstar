@@ -39,6 +39,14 @@ src="https://www.cdnlogo.com/logos/h/84/html.svg" width="48" height="48" alt="Ht
   </tr>
 </tbody></table>
 <h2 dir="auto"><a id="user-content-stats-" class="anchor" aria-hidden="true" href="#stats-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Stats 👽</h2>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eb95f92c3828439d37b8530040a316ee4a7faff5f446915262a787eb124ffeb7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64796c786e2d676c2673686f775f69636f6e733d74727565267468656d653d72656163742626686964655f626f726465723d74727565"><img src="https://camo.githubusercontent.com/eb95f92c3828439d37b8530040a316ee4a7faff5f446915262a787eb124ffeb7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64796c786e2d676c2673686f775f69636f6e733d74727565267468656d653d72656163742626686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=dylxn-gl&amp;show_icons=true&amp;theme=react&amp;&amp;hide_border=true" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6acdfbdf02ee53f3f48e2560ddb1c9355f37693d69d937b64d3970e6eeb37258/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d64796c786e2d676c26267468656d653d72656163742626686964655f626f726465723d74727565"><img src="https://camo.githubusercontent.com/6acdfbdf02ee53f3f48e2560ddb1c9355f37693d69d937b64d3970e6eeb37258/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d64796c786e2d676c26267468656d653d72656163742626686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=dylxn-gl&amp;&amp;theme=react&amp;&amp;hide_border=true" style="max-width: 100%;"></a></p>
-</article>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=juan-devstar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=juan-devstar&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-devstar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=juan-devstar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ivannita&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
