@@ -49,4 +49,3 @@ src="https://www.cdnlogo.com/logos/h/84/html.svg" width="48" height="48" alt="Ht
 ![](https://github-profile-trophy.vercel.app/?username=juan-devstar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ivannita&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
